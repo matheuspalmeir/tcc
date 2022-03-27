@@ -1,5 +1,5 @@
 /tccenv
 /images
-.venv
-.csv
-.npy
+*.venv
+*.csv
+*.npy
